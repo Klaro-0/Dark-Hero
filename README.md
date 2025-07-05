@@ -1,7 +1,11 @@
 # 🕶️ Dark Hero
 
-**Dark Hero** is a dark, futuristic RPG game developed in **Flutter** by [Klaro-0 (Yahi Abdelhak)](https://github.com/Klaro-0). It blends fast-paced combat, moral choice mechanics, and immersive storytelling into one cross-platform experience. Built from scratch, it pushes Flutter's capabilities to their limits — proving it's not just for apps, it's for games too.
+A **free, open-source Flutter RPG game** built from scratch using modern UI/UX, modular architecture, and offline-first gameplay.
 
+**Dark Hero** is a futuristic 2D action RPG written in Dart/Flutter. It features real-time combat, a moral choice system, and full source code — ideal for developers looking for a template or inspiration for their own games.
+
+> 🚀 Fully open source under the MIT License.  
+> 🔧 Perfect base project for indie devs or student portfolios.
 ---
 
 ## 👤 About the Developer

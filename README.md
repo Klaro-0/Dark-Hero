@@ -23,6 +23,13 @@ I'm **Yahi Abdelhak (aka Klaro-0)** — a tech enthusiast, indie game developer,
 
 ---
 
+
+## 🔍 Keywords
+
+Flutter RPG game, open-source RPG, Dart game example, free Flutter game template, 2D game Flutter source code, moral system game, Flutter combat system, indie Flutter project
+---
+
+
 ## 🧠 Introduction
 
 Welcome to **Dark Hero**, a passion-driven indie game project born from the idea of exploring what it means to be a hero in a broken world. Developed as part of my journey in software development and game design, this project is an experiment, a showcase, and a story — all in one.

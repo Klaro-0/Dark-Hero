@@ -85,6 +85,28 @@ dark_hero/
 ├── README.md
 ├── LICENSE
 
-yaml
-Copy
-Edit
+## 📸 Screenshots
+
+### 🧭 Main Menu
+
+![Main Menu](screenshots/main.png)
+
+### ⚔️ Combat Demo
+
+![Combat UI](screenshots/game.png)
+
+### 💥 Fight Demo
+
+![Fight Screenshot](screenshots/be2.png)
+
+### ☠️ Dead Screen
+
+![Death Screen](screenshots/be.png)
+
+### 🧙 Mana Bar Active
+
+![Mana](screenshots/mana.png)
+
+### 🧪 Game Revisit
+
+![Another View](screenshots/main.png)

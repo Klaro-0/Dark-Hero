@@ -1,6 +1,21 @@
 # 🕶️ Dark Hero
 
-**Dark Hero** is a dark, futuristic RPG game developed in **Flutter** by [Klaro-0 (Yahi Abdelhak)](https://github.com/Klaro-0). It blends fast-paced combat, moral choice mechanics, and immersive storytelling into one cross-platform experience. Built from scratch, it pushes Flutter's capabilities to their limits, proving it's not just for apps — it's for games too.
+**Dark Hero** is a dark, futuristic RPG game developed in **Flutter** by [Klaro-0 (Yahi Abdelhak)](https://github.com/Klaro-0). It blends fast-paced combat, moral choice mechanics, and immersive storytelling into one cross-platform experience. Built from scratch, it pushes Flutter's capabilities to their limits — proving it's not just for apps, it's for games too.
+
+---
+
+## 👤 About the Developer
+
+I'm **Yahi Abdelhak (aka Klaro-0)** — a tech enthusiast, indie game developer, and creator of digital experiences. I’m passionate about building apps and games that are fast, offline-first, and user-driven.
+
+💡 **Philosophy**: *"I don't wait for perfect conditions to build — I build to create them."*
+
+### 🔗 Connect with Me
+
+- 🧑‍💻 GitHub: [@Klaro-0](https://github.com/Klaro-0)
+- 📷 Instagram: [@klyro_o](https://www.instagram.com/klyro_o/)
+- 💼 LinkedIn: [Abdelhak Yahi](https://www.linkedin.com/in/abdelhak-yahi-258a23263/)
+- 📫 Email: [yahiabdelhak7@gmail.com](mailto:yahiabdelhak7@gmail.com)
 
 ---
 
@@ -8,7 +23,7 @@
 
 Welcome to **Dark Hero**, a passion-driven indie game project born from the idea of exploring what it means to be a hero in a broken world. Developed as part of my journey in software development and game design, this project is an experiment, a showcase, and a story — all in one.
 
-> 🎯 My goal? To create a high-performance, customizable game using Flutter that runs offline, supports modular gameplay, and reflects the player's moral path.
+> 🎯 **Goal**: Create a high-performance, customizable game using Flutter that runs offline, supports modular gameplay, and reflects the player's moral path.
 
 Whether you're here to play, fork, or collaborate — you're welcome to the dark side.
 
@@ -16,11 +31,11 @@ Whether you're here to play, fork, or collaborate — you're welcome to the dark
 
 ## 🎮 Game Concept
 
-Set in a cyber-noir universe, you play as a lone vigilante navigating chaos, corruption, and supernatural forces. Your path diverges depending on the choices you make: absorb the darkness and gain power, or resist it and walk the harder path.
+Set in a cyber-noir universe, you play as a lone vigilante navigating chaos, corruption, and supernatural forces. Your path diverges depending on the choices you make:
 
-- **Light Path**: Focuses on healing, defense, and honor
-- **Shadow Path**: Emphasizes stealth, chaos, and brutal power
-- **Neutral Path**: Balanced abilities but unpredictable consequences
+- **Light Path**: Focuses on healing, defense, and honor  
+- **Shadow Path**: Emphasizes stealth, chaos, and brutal power  
+- **Neutral Path**: Balanced abilities but unpredictable consequences  
 
 ---
 
@@ -31,23 +46,45 @@ Set in a cyber-noir universe, you play as a lone vigilante navigating chaos, cor
 - 🔓 Unlockable skills and upgrades  
 - 🤖 Basic AI system for enemy movement and attacks  
 - 📱 Offline-first game (no backend required)  
-- 🧩 Modular game architecture for scaling
+- 🧩 Modular game architecture for scaling  
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tech        | Description                             |
-|-------------|-----------------------------------------|
-| **Flutter** | Cross-platform UI/game framework        |
-| **Dart**    | Primary programming language            |
-| **JSON**    | Local game save system                  |
-| **Rive/Spine** | (Planned) Animations & cutscene FX     |
-| **MVC**     | Clean code structure                    |
+| Tech        | Description                              |
+|-------------|------------------------------------------|
+| **Flutter** | Cross-platform UI/game framework         |
+| **Dart**    | Primary programming language             |
+| **JSON**    | Local game save system                   |
+| **Rive/Spine** | (Planned) Animations & cutscene FX      |
+| **MVC**     | Clean code structure                     |
 | **Provider**| State management (may switch to Riverpod)|
-| **VS Code** | Main development environment            |
+| **VS Code** | Main development environment             |
 
 ---
 
 ## 📁 Folder Structure
 
+dark_hero/
+│
+├── lib/
+│ ├── models/ # Player, enemies, abilities
+│ ├── views/ # Game screens, HUD
+│ ├── controllers/ # Game logic and input
+│ ├── utils/ # Helper functions, constants
+│ └── main.dart # Entry point
+│
+├── assets/
+│ ├── images/
+│ ├── sounds/
+│ └── animations/
+│
+├── pubspec.yaml # Flutter dependencies & assets
+├── .gitignore
+├── README.md
+├── LICENSE
+
+yaml
+Copy
+Edit

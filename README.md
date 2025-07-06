@@ -89,7 +89,7 @@ dark_hero/
 
 ### 🧭 Main Menu
 
-![Main Menu](screenshots/main.png)
+![Main Menu](screenshots/main.jpg)
 
 ### ⚔️ Combat Demo
 
@@ -97,7 +97,7 @@ dark_hero/
 
 ### 💥 Fight Demo
 
-![Fight Screenshot](screenshots/be2.png)
+![Fight Screenshot](screenshots/be2.jpg)
 
 ### ☠️ Dead Screen
 
@@ -105,7 +105,7 @@ dark_hero/
 
 ### 🧙 Mana Bar Active
 
-![Mana](screenshots/mana.png)
+![Mana](screenshots/mana.jpg)
 
 ### 🧪 Game Revisit
 
